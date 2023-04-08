@@ -31,6 +31,7 @@ p a {
 #header div div#logo {
   float: left;
   width: auto;
+
   margin: 0 55px 0 0;
 }
 #header div div#navigation {
@@ -232,13 +233,13 @@ p a {
 }
 #content div div,
 #content div.section div.figure {
-  background: url(../images/bg-image-higlight.jpg) no-repeat;
   float: right;
   margin-left: 45px;
   padding: 35px 0 0;
   position: relative;
   width: 614px;
 }
+
 #content div div span {
   background: url(../images/bg-image-right-shadow.jpg) no-repeat bottom right;
   display: block;
