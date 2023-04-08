@@ -535,10 +535,10 @@ p a {
 }
 
 #footer div div h3 a {
-  background: url(../images/logo-footer.gif) no-repeat;
+  background: url(../images/logo.png) no-repeat;
   display: block;
   height: 30px;
-  text-indent: -99999px;
+  /* text-indent: -99999px; */
 }
 #footer div div div {
   height: auto;
