@@ -48,7 +48,7 @@ p a {
   background: url(../images/bg-navigation-left-curve.gif) no-repeat left top;
   padding-left: 4px;
   height: 63px;
-  width: auto;
+  width: 380px;
 }
 #header div div#navigation div ul {
   background: url(../images/bg-navigation.gif) repeat-x;
@@ -58,6 +58,7 @@ p a {
   list-style: none;
   margin: 0;
   padding: 0;
+
   min-width: 600px;
 }
 #header div div#navigation div ul li:first-child {
