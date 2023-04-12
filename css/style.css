@@ -220,6 +220,21 @@ p a {
   text-shadow: 1px 1px 0 #216b20;
   width: 281px;
 }
+
+#content div#f1 ul li a.link {
+  background: url(../images/sprites-buttons.gif) no-repeat 0 -166px;
+  color: #fdfdfb;
+  display: block;
+  height: 43px;
+  font-family: "CarterOneRegular";
+  font-size: 16px;
+  line-height: 43px;
+  margin-top: 25px;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 1px 1px 0 #216b20;
+  width: 281px;
+}
 #content div#featured ul li p {
   line-height: 21px;
   margin-top: 15px;
